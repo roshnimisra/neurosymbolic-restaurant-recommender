@@ -1,0 +1,162 @@
+cuisine,cuisine_group,key_menu,establishment_type,dietary_restrictions,noise
+Afghan,South Asian,Acai Bowls,Adult Entertainment,Gluten-Free,Active Life
+African,African,Bagels,Airport Lounges,Halal,Adult
+American (New),American / Fusion,Barbeque,Bakeries,Kosher,Adult Education
+American (Traditional),American / Fusion,Beer,Bars,Vegan,Airport Shuttles
+Arabic,Mediterranean / Middle Eastern,Breakfast & Brunch,Beer Bar,Vegetarian,Apartments
+Argentine,Latin American / Caribbean,Bubble Tea,Beer Gardens,,Appliances
+Armenian,Slavic,Burgers,Beer Hall,,Arcades
+Asian Fusion,American / Fusion,Cheesesteaks,Beverage Store,,Art Classes
+Australian,American / Fusion,Chicken Wings,Bistros,,Art Galleries
+Austrian,European,Coffee & Tea,Brasseries,,Art Museums
+Bangladeshi,South Asian,Comfort Food,Breweries,,Arts & Crafts
+Basque,European,Creperies,Brewpubs,,Arts & Entertainment
+Belgian,European,Cupcakes,Buffets,,Automotive
+Brazilian,Latin American / Caribbean,Desserts,Butcher,,Axe Throwing
+British,European,Dim Sum,Cafes,,Banks & Credit Unions
+Burmese,Southeast Asian,Donuts,Cafeteria,,Barbers
+Cajun/Creole,American / Fusion,Empanadas,Candy Stores,,Bartenders
+Cambodian,Southeast Asian,Ethnic Food,Champagne Bars,,Beaches
+Cantonese,East Asian,Falafel,Cheese Shops,,Beauty & Spas
+Caribbean,Latin American / Caribbean,Fish & Chips,Chicken Shop,,Boat Charters
+Chinese,East Asian,Fondue,Chocolatiers & Shops,,Boat Tours
+Colombian,Latin American / Caribbean,Gelato,Cideries,,Boating
+Cuban,Latin American / Caribbean,Herbs & Spices,Cocktail Bars,,Books
+Dominican,Latin American / Caribbean,Hot Dogs,Coffee Roasteries,,Bookstores
+Egyptian,Mediterranean / Middle Eastern,Hot Pot,Comedy Clubs,,Bowling
+Ethiopian,African,Ice Cream & Frozen Yogurt,Convenience Stores,,Buddhist Temples
+Filipino,Southeast Asian,Japanese Curry,Dance Clubs,,Business Consulting
+French,European,Juice Bars & Smoothies,Delicatessen,,Candle Stores
+Fuzhou,East Asian,Kebab,Delis,,Cannabis Clinics
+Georgian,Slavic,Kombucha,Diners,,Cannabis Dispensaries
+German,European,Live/Raw Food,Dinner Theater,,Cards & Stationery
+Greek,Mediterranean / Middle Eastern,Macarons,Distilleries,,Casinos
+Haitian,Latin American / Caribbean,Noodles,Dive Bars,,Caterers
+Hawaiian,American / Fusion,Pasta Shops,Ethnic Grocery,,Colleges & Universities
+Himalayan/Nepalese,South Asian,Pizza,Farmers Market,,Community Service/Non-Profit
+Honduran,Latin American / Caribbean,Poke,Food Court,,Cooking Classes
+Hungarian,European,Poutineries,Food Delivery Services,,Cooking Schools
+Iberian,European,Pretzels,Food Stands,,Cosmetics & Beauty Supply
+Indian,South Asian,Ramen,Food Trucks,,Costumes
+Indonesian,Southeast Asian,Salad,Gastropubs,,Dentists
+Irish,European,Sandwiches,Gay Bars,,Department Stores
+Israeli,Mediterranean / Middle Eastern,Seafood,Grocery,,Doctors
+Italian,European,Shaved Ice,Health Markets,,Eatertainment
+Japanese,East Asian,Soup,Hong Kong Style Cafe,,Education
+Korean,East Asian,Sushi Bars,Hookah Bars,,Escape Games
+Laotian,Southeast Asian,Tacos,International Grocery,,Event Planning & Services
+Latin American,Latin American / Caribbean,Tapas/Small Plates,Internet Cafes,,Eyewear & Opticians
+Lebanese,Mediterranean / Middle Eastern,Teppanyaki,Irish Pub,,Fashion
+Malaysian,Southeast Asian,Waffles,Izakaya,,Festivals
+Mediterranean,Mediterranean / Middle Eastern,Wraps,Jazz & Blues,,Financial Advising
+Mexican,Latin American / Caribbean,,Karaoke,,Financial Services
+Middle Eastern,Mediterranean / Middle Eastern,,Meat Shops,,Fishing
+Modern European,European,,Organic Stores,,Fitness & Instruction
+Mongolian,East Asian,,Patisserie/Cake Shop,,Florists
+Moroccan,Mediterranean / Middle Eastern,,Piano Bars,,Flowers & Gifts
+New Mexican Cuisine,Latin American / Caribbean,,Pool Halls,,Food
+Pakistani,South Asian,,Pop-Up Restaurants,,Food Banks
+Pan Asian,American / Fusion,,Pubs,,Furniture Reupholstery
+Peruvian,Latin American / Caribbean,,Seafood Markets,,Furniture Stores
+Polish,Slavic,,Smokehouse,,Gas Stations
+Portuguese,European,,Speakeasies,,General Dentistry
+Puerto Rican,Latin American / Caribbean,,Specialty Food,,Gift Shops
+Russian,Slavic,,Steakhouses,,Golf
+Salvadoran,Latin American / Caribbean,,Street Vendors,,Golf Lessons
+Sardinian,European,,Strip Clubs,,Gyms
+Scandinavian,European,,Supper Clubs,,Hair Salons
+Senegalese,African,,Tapas Bars,,Health & Medical
+Shanghainese,East Asian,,Tea Rooms,,Historical Tours
+Sicilian,European,,Themed Cafes,,Hobby Shops
+Singaporean,Southeast Asian,,Tiki Bars,,Home & Garden
+Soul Food,American / Fusion,,Whiskey Bars,,Home Decor
+South African,African,,Wine Bars,,Home Services
+Southern,American / Fusion,,Wineries,,Hospitals
+Spanish,European,,,,Hotel bar
+Szechuan,East Asian,,,,Hotels
+Taiwanese,East Asian,,,,Hotels & Travel
+Tex-Mex,Latin American / Caribbean,,,,Hunting & Fishing Supplies
+Thai,Southeast Asian,,,,IT Services & Computer Repair
+Trinidadian,Latin American / Caribbean,,,,Indoor Playcentre
+Turkish,Mediterranean / Middle Eastern,,,,Jewelry
+Ukrainian,Slavic,,,,Kids Activities
+Uzbek,Slavic,,,,Kitchen & Bath
+Venezuelan,Latin American / Caribbean,,,,Kitchen Supplies
+Vietnamese,Southeast Asian,,,,Landmarks & Historical Buildings
+,,,,,Local Flavor
+,,,,,Local Services
+,,,,,Lounges
+,,,,,Mags
+,,,,,Mass Media
+,,,,,Massage
+,,,,,Massage Therapy
+,,,,,Men's Clothing
+,,,,,Mini Golf
+,,,,,Mobile Phone Repair
+,,,,,Museums
+,,,,,Music & DVDs
+,,,,,Music & Video
+,,,,,Music Venues
+,,,,,Naturopathic/Holistic
+,,,,,Newspapers & Magazines
+,,,,,Nightlife
+,,,,,Nurseries & Gardening
+,,,,,Nutritionists
+,,,,,Outdoor Gear
+,,,,,Paint & Sip
+,,,,,Parks
+,,,,,Party & Event Planning
+,,,,,Party Equipment Rentals
+,,,,,Performing Arts
+,,,,,Personal Chefs
+,,,,,Pet Adoption
+,,,,,Pets
+,,,,,Playgrounds
+,,,,,Plumbing
+,,,,,Print Media
+,,,,,Professional Services
+,,,,,Property Management
+,,,,,Public Markets
+,,,,,Public Services & Government
+,,,,,Public Transportation
+,,,,,Real Estate
+,,,,,Real Estate Agents
+,,,,,Recreation Centers
+,,,,,Religious Organizations
+,,,,,Restaurants
+,,,,,Shipping Centers
+,,,,,Shopping
+,,,,,Shopping Centers
+,,,,,Skating Rinks
+,,,,,Social Clubs
+,,,,,Souvenir Shops
+,,,,,Specialty Schools
+,,,,,Sporting Goods
+,,,,,Sports Bars
+,,,,,Sports Betting
+,,,,,Sports Clubs
+,,,,,Swimming Pools
+,,,,,Tabletop Games
+,,,,,Taxis
+,,,,,Tennis
+,,,,,Ticket Sales
+,,,,,Tobacco Shops
+,,,,,Tours
+,,,,,Toy Stores
+,,,,,Train Stations
+,,,,,Transportation
+,,,,,Travel Services
+,,,,,Unofficial Yelp Events
+,,,,,Used
+,,,,,Used Bookstore
+,,,,,Vape Shops
+,,,,,Venues & Event Spaces
+,,,,,Videos & Video Game Rental
+,,,,,Vintage & Consignment
+,,,,,Vinyl Records
+,,,,,Visitor Centers
+,,,,,Vitamins & Supplements
+,,,,,Walking Tours
+,,,,,Watches
+,,,,,Wedding Planning
+,,,,,Wholesale Stores
